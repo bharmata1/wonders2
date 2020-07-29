@@ -1,0 +1,15 @@
+main, header, section, aside, footer {
+background-color: violet;
+
+}
+
+.petra {
+    font-size: 50px;
+
+}
+
+body {
+color: tomato;
+background-color: turquoise;
+
+}
